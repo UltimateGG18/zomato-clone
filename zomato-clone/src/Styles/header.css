@@ -1,0 +1,144 @@
+.header1 {
+    height: 50px;
+    background-color: red;
+    padding-top: 4px;
+}
+
+.header-logo {
+    width: 40px;
+    height: 40px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: #eb2929;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 4%;
+}
+
+.outer-login-signup {
+    float: right;
+    margin-top: -28px;
+    margin-right: 60px;
+}
+
+.login {
+    display: inline-block;
+    margin-right: 20px;
+    color: white;
+    font-family: poppins;
+}
+
+.Create-An-Account {
+    display: inline-block;
+    border: solid 1px white;
+    color: white;
+    padding: 5px;
+    margin: -5px;
+}
+
+.kep-login-facebook.metro {
+    margin-top: 10px;
+    border-radius: 0;
+    height: 40px;
+    padding: 8px;
+}
+
+.continue-with-credentials {
+    background-color: white;
+    width: 300px;
+    padding: 8px;
+    margin-top: 10px;
+    color: black;
+    border: solid 1px;
+}
+
+.login-heading {
+    color: darkgray;
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-family: poppins;
+}
+
+.form-login {
+    width: 55px;
+    margin-top: 10px;
+}
+
+.google-login {
+    width: 300px;
+}
+
+.facebook-login {
+    width: 300px;
+    margin-top: 15px;
+    text-align: left;
+    height: 40px;
+    background-color: white;
+    border: solid 1px #4267B2;
+    color: #4267B2;
+}
+
+.login-form-heading {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.login-form-labels {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+}
+
+.login-form-button {
+    margin-top: 20px;
+    width: 65px;
+    height: 30px;
+    border: solid 1px #192f60;
+    color: #192f60;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .Create-An-Account {
+        display: inline-block;
+        border: solid 1px white;
+        color: white;
+        padding: 5px;
+        margin: -25px;
+    }
+    .login {
+        display: inline-block;
+        margin-right: 35px;
+        color: white;
+        font-family: poppins;
+    }
+}

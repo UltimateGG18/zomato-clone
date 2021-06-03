@@ -1,0 +1,366 @@
+.img-responsive {
+    margin-top: 25px;
+    height: 280px;
+    image-rendering: pixelated;
+    border-radius: 10px;
+}
+
+.img_button {
+    position: absolute;
+    top: 85%;
+    left: 78%;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    border: none;
+}
+
+.The-Big-Chill-Cakery1 {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 15px;
+}
+
+.rating {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: red;
+    text-decoration: underline;
+}
+
+.Place-Online-Order {
+    margin-left: 870px;
+    width: 223px;
+    height: 50px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    border-radius: 6px;
+    background-color: #ce0505;
+    padding-left: 35px;
+    border: none;
+}
+
+.About-this-place {
+    width: 500px;
+    height: 31px;
+    margin: 44.5px 2px 50px 116px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-bottom: 15px;
+}
+
+.upper {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 0px;
+}
+
+.lower {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.tabs {
+    position: relative;
+    min-height: 200px;
+    clear: both;
+    margin: 50px 0 25px;
+    background: white;
+}
+
+.tab {
+    float: left;
+}
+
+.tab label {
+    background: white;
+    padding: 10px;
+    border: 1px solid white;
+    margin-left: -1px;
+    position: relative;
+    left: 1px;
+    top: -46px;
+}
+
+.tab [type=radio] {
+    display: none;
+}
+
+.content {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    background: white;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+    border-top: 1px solid gray;
+    opacity: 0;
+}
+
+[type=radio]:checked~label {
+    background: white;
+    border-bottom: 1px solid white;
+    border-bottom: solid 4px red;
+}
+
+[type=radio]:checked~label~.content {
+    opacity: 1;
+}
+
+.restaurant-name {
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 11px
+}
+
+.item-name {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292c40;
+}
+
+.item-price {
+    font-family: RupeeForadian;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292c40;
+}
+
+.item-descp {
+    font-family: RupeeForadian;
+    font-size: 13px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    letter-spacing: normal;
+    text-align: left;
+    color: #696b78;
+}
+
+.item-total {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #292c40;
+    margin-left: 11px;
+    margin-top: 0px;
+}
+
+.pay {
+    position: absolute;
+    left: 75%;
+    top: 12%;
+    width: 85px;
+    height: 35px;
+    border-radius: 6px;
+    background-color: #ce0505;
+}
+
+.add-button {
+    position: absolute;
+    left: 28%;
+    top: 82%;
+}
+
+.add-number {
+    position: absolute;
+    top: 80%;
+    left: 23%;
+}
+
+.greenbox {
+    border: solid 1px #048002;
+    background-color: #ffffff;
+    width: 11px;
+    height: 11px;
+    padding: 1px
+}
+
+.greencircle {
+    border: solid 1px #048002;
+    background-color: #048002;
+    border-radius: 4px;
+    width: 7px;
+    height: 7px;
+}
+
+.payment-form-head {
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 2px;
+}
+
+.payment-form-total {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+
+.payment-form-labels {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+}
+
+.text-field {
+    width: 500px;
+    height: 35px;
+    border-radius: 2px;
+    border: solid 1px #cacfd8;
+}
+
+.payment-form-proceed {
+    width: 85px;
+    height: 35px;
+    border-radius: 6px;
+    background-color: #ce0505;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 11px;
+    padding-top: 2px;
+    border: none;
+    margin-top: 50px;
+    float: right;
+}
+
+@media only screen and (max-width: 600px) {
+    .img_button {
+        position: absolute;
+        top: 85%;
+        left: 55%;
+        font-family: Poppins;
+        font-size: 16px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        border: none;
+    }
+    .Place-Online-Order {
+        margin-left: 250px;
+        width: 200px;
+        height: 40px;
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+        border-radius: 6px;
+        background-color: #ce0505;
+        padding-left: 25px;
+    }
+}

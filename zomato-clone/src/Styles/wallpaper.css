@@ -1,0 +1,209 @@
+.outer {
+    height: 480px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+}
+
+.logo {
+    width: 95px;
+    height: 90px;
+    font-family: Poppins;
+    font-size: 70px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: #eb2929;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 36%;
+}
+
+.heading {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+}
+
+.location {
+    width: 200px;
+    height: 35px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    opacity: 0.7;
+    border: none;
+    margin-left: 350px;
+    margin-top: 10px;
+}
+
+.restaurant {
+    width: 350px;
+    height: 35px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    padding-left: 30px;
+    opacity: 0.7;
+    border: none;
+    margin-top: 10px;
+    margin-left: -70px;
+}
+
+.Search {
+    left: -48px;
+    top: 2px;
+    color: black;
+}
+
+.suggestionsli {
+    list-style: none;
+    background-color: lightgray;
+    background-image: linear-gradient( 90deg, red 20px, lightgray 10px);
+    border: 1px solid #CCC;
+    box-shadow: inset 1px 1px 0 rgb(255 255 255 / 50%);
+    margin-bottom: 5px;
+    width: 100px;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 3px;
+    width: 350px;
+    height: 45px;
+    text-align: center;
+}
+
+.suggestionsul {
+    margin: 0 auto;
+    padding: 0;
+    max-height: 390px;
+    overflow-y: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: none;
+    border-right: none;
+    margin-left: -56px;
+}
+
+.location-list {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.suggestion-name {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: center;
+    color: #192f60;
+}
+
+.suggestion-locality {
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: center;
+    color: #192f60;
+}
+
+@media only screen and (max-width: 600px) {
+    .location {
+        width: 200px;
+        height: 35px;
+        font-family: Poppins;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #636f88;
+        opacity: 0.7;
+        border: none;
+        margin-left: 125px;
+        margin-top: 10px;
+    }
+    .restaurant {
+        width: 350px;
+        height: 35px;
+        font-family: Poppins;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #636f88;
+        padding-left: 30px;
+        opacity: 0.7;
+        border: none;
+        margin-top: 15px;
+        margin-left: 30px;
+    }
+    .Search {
+        left: -48px;
+        top: 2px;
+        color: black;
+    }
+    .suggestionsli {
+        list-style: none;
+        background-color: lightgray;
+        background-image: linear-gradient( 90deg, red 20px, lightgray 10px);
+        border: 1px solid #CCC;
+        box-shadow: inset 1px 1px 0 rgb(255 255 255 / 50%);
+        margin-bottom: 5px;
+        width: 100px;
+        box-sizing: border-box;
+        cursor: pointer;
+        border-radius: 3px;
+        width: 350px;
+        height: 45px;
+        text-align: center;
+    }
+    .suggestionsul {
+        margin: 0 auto;
+        padding: 0;
+        max-height: 390px;
+        overflow-y: auto;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        border-left: none;
+        border-right: none;
+        margin-left: 44px;
+    }
+}

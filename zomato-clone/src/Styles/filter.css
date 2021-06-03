@@ -1,0 +1,418 @@
+.heading1 {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 75px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.filters-heading {
+    width: 256px;
+    height: 25px;
+    padding-top: 2px;
+    margin-left: 60px;
+    box-shadow: 0 2px 6px 0 rgb(0, 0, 0, 0.16);
+}
+
+.toggle-span {
+    float: right;
+    visibility: hidden;
+}
+
+#demo {
+    width: 255px;
+    box-shadow: 0px 3px 6px 0px rgb(0, 0, 0, 0.16);
+    height: 550px;
+    padding-left: 10px;
+    margin-left: 60px;
+}
+
+.leftblock {
+    width: 200px;
+    height: 550px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-left: 100px;
+}
+
+.rightblock {
+    width: 750px;
+    height: 250px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: white;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.Filters {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.Select-Location {
+    width: 106px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-bottom: 10px;
+    padding-top: 8px;
+}
+
+.Rectangle2236 {
+    width: 208px;
+    height: 35px;
+    margin-top: 15px;
+    border: solid 1px #8c96ab;
+}
+
+.Cuisine {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+
+.Rectangle2226 {
+    width: 18px;
+    height: 18px;
+    border-radius: 1.5px;
+    border: solid 1.5px #192f60;
+}
+
+.L2000 {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    margin-left: 5px;
+}
+
+.L2000 .text-style-1 {
+    font-family: RupeeForadian;
+}
+
+.Cost-For-Two {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+
+.Rectangle-2231 {
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    border: solid 1.5px var(--denim);
+}
+
+.Sort {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-bottom: 15px;
+    padding-top: 8px;
+}
+
+.shutterstock {
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    image-rendering: pixelated;
+}
+
+.The-Big-Chill-Cakery {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 180px;
+    margin-top: -110px;
+}
+
+.FORT {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 180px;
+}
+
+.Shop-1 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    margin-left: 180px;
+}
+
+.CUISINES-COST-FOR-TWO {
+    margin-left: 25px;
+    margin-top: 7px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.Bakery-700 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 160px;
+    margin-top: -60px;
+}
+
+.buttons {
+    width: 30px;
+    height: 30px;
+    opacity: 1.4;
+    border-radius: 7px;
+    border: solid 1px #8c96ab;
+    background-color: var(--white);
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.buttons1 {
+    width: 30px;
+    height: 30px;
+    opacity: 1.4;
+    border-radius: 7px;
+    border: solid 1px #8c96ab;
+    background-color: var(--white);
+    margin-left: 200px;
+}
+
+.no-record {
+    width: 750px;
+    height: 250px;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: white;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    font-size: 30px;
+    font-family: poppins;
+    font-style: normal;
+    text-align: center;
+    color: #192f60;
+}
+
+@media only screen and (max-width: 600px) {
+    .no-record {
+        width: 425px;
+        height: 250px;
+        box-shadow: 0 3px 6px 0 rgb(0, 0, 0, 0.16);
+        background-color: white;
+        margin-bottom: 20px;
+        margin-left: 25px;
+        margin-top: 10px;
+        font-size: 30px;
+        font-family: poppins;
+        font-style: normal;
+        text-align: center;
+        color: #192f60;
+    }
+    .heading1 {
+        font-family: Poppins;
+        font-size: 28px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        margin-left: 40px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .filters-heading {
+        width: 425px;
+        height: 25px;
+        padding-top: 2px;
+        margin-left: 25px;
+        font-family: poppins;
+    }
+    .toggle-span {
+        float: right;
+        visibility: initial;
+    }
+    #demo {
+        width: 300px;
+        box-shadow: 0px 3px 6px 0px rgb(0, 0, 0, 0.16);
+        height: 550px;
+        padding-left: 10px;
+        margin-left: 25px;
+    }
+    .rightblock {
+        width: 425px;
+        height: 250px;
+        box-shadow: 0 3px 6px 0 rgb(0, 0, 0, 0.16);
+        background-color: white;
+        margin-bottom: 20px;
+        margin-left: 25px;
+        margin-top: 10px;
+    }
+    .shutterstock {
+        border-radius: 20px;
+        margin-left: 12px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        image-rendering: pixelated;
+    }
+    .The-Big-Chill-Cakery {
+        font-family: Poppins;
+        font-size: 20px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        margin-top: -110px;
+        margin-left: 160px;
+    }
+    .FORT {
+        font-family: Poppins;
+        font-size: 12px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.83;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        margin-left: 160px;
+    }
+    .Shop-1 {
+        font-family: Poppins;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.83;
+        letter-spacing: normal;
+        text-align: left;
+        color: #636f88;
+        margin-left: 160px;
+    }
+    .CUISINES-COST-FOR-TWO {
+        margin-left: 25px;
+        margin-top: 7px;
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: left;
+        color: #636f88;
+    }
+    .Bakery-700 {
+        font-family: Poppins;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        margin-top: -52px;
+    }
+    .buttons {
+        width: 30px;
+        height: 30px;
+        opacity: 1.4;
+        border-radius: 7px;
+        border: solid 1px #8c96ab;
+        background-color: var(--white);
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+    .buttons1 {
+        width: 30px;
+        height: 30px;
+        opacity: 1.4;
+        border-radius: 7px;
+        border: solid 1px #8c96ab;
+        background-color: var(--white);
+        margin-left: 60px;
+    }
+}
